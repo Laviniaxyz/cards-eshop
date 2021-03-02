@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/cards-eshop/static/css/main.3f454cb7.chunk.css",
+    "main.js": "/cards-eshop/static/js/main.2561948c.chunk.js",
+    "main.js.map": "/cards-eshop/static/js/main.2561948c.chunk.js.map",
+    "runtime-main.js": "/cards-eshop/static/js/runtime-main.d42c5de0.js",
+    "runtime-main.js.map": "/cards-eshop/static/js/runtime-main.d42c5de0.js.map",
+    "static/js/2.1016e7c1.chunk.js": "/cards-eshop/static/js/2.1016e7c1.chunk.js",
+    "static/js/2.1016e7c1.chunk.js.map": "/cards-eshop/static/js/2.1016e7c1.chunk.js.map",
+    "static/js/3.fd3bfd01.chunk.js": "/cards-eshop/static/js/3.fd3bfd01.chunk.js",
+    "static/js/3.fd3bfd01.chunk.js.map": "/cards-eshop/static/js/3.fd3bfd01.chunk.js.map",
+    "index.html": "/cards-eshop/index.html",
+    "static/css/main.3f454cb7.chunk.css.map": "/cards-eshop/static/css/main.3f454cb7.chunk.css.map",
+    "static/js/2.1016e7c1.chunk.js.LICENSE.txt": "/cards-eshop/static/js/2.1016e7c1.chunk.js.LICENSE.txt",
+    "static/media/1nicebeard.3548ecd3.jpg": "/cards-eshop/static/media/1nicebeard.3548ecd3.jpg",
+    "static/media/2beenbad.c8935245.jpg": "/cards-eshop/static/media/2beenbad.c8935245.jpg",
+    "static/media/3youresweet.06a44de4.jpg": "/cards-eshop/static/media/3youresweet.06a44de4.jpg",
+    "static/media/4stillok.fd08c1cf.jpg": "/cards-eshop/static/media/4stillok.fd08c1cf.jpg",
+    "static/media/5allyours.87e5adb1.jpg": "/cards-eshop/static/media/5allyours.87e5adb1.jpg",
+    "static/media/6everydaybetter.a4803eb8.jpg": "/cards-eshop/static/media/6everydaybetter.a4803eb8.jpg",
+    "static/media/7greatestadventure.ee6a66f1.jpg": "/cards-eshop/static/media/7greatestadventure.ee6a66f1.jpg",
+    "static/media/8sleep.6d011624.jpg": "/cards-eshop/static/media/8sleep.6d011624.jpg",
+    "static/media/logo2.fd52e288.jpg": "/cards-eshop/static/media/logo2.fd52e288.jpg",
+    "static/media/shopping-bag.a688874f.svg": "/cards-eshop/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d42c5de0.js",
+    "static/js/2.1016e7c1.chunk.js",
+    "static/css/main.3f454cb7.chunk.css",
+    "static/js/main.2561948c.chunk.js"
+  ]
+}
